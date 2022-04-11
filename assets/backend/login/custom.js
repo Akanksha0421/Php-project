@@ -1,10 +1,6 @@
 /*
 
-Template:  Webster - Responsive Multi-purpose HTML5 Template
-Author: potenzaglobalsolutions.com
-Design and Developed by: potenzaglobalsolutions.com
 
-NOTE: This file contains all scripts for the actual Template.
 
 */
 
